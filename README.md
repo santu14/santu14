@@ -6,3 +6,6 @@
 
 - Part time librarian 🤓 Full time weirdo 👽
 
+```javascript
+const skills = [ "HTML", "CSS", "Bootstrap", "JavaScript", "jQuery", "Node.js"];
+```
