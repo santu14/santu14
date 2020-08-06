@@ -6,4 +6,3 @@
 
 - Part time librarian 🤓 Full time weirdo 👽
 
-- When I’m not at work or coding you can catch me playing some games or watching anime
