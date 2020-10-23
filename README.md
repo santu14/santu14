@@ -8,5 +8,5 @@
 - Part time librarian 🤓 Full time weirdo 👽
 
 ```javascript
-const skills = [ "HTML", "CSS", "Bootstrap", "JavaScript", "jQuery", "Node.js","MySQL", "Mongo db", "React"];
+const skills = [ "HTML", "CSS", "Bootstrap", "JavaScript", "jQuery", "Node.js", "MySQL", "Mongo db", "React"];
 ```
