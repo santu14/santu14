@@ -1,5 +1,5 @@
 
-<img src="https://github.com/santu14/santu14/blob/master/images/Santiago%Solana.gif" alt="hello" width="100%" height="auto">
+<img src="https://github.com/santu14/santu14/blob/master/images/Santiago%20Solana.gif" alt="hello" width="100%" height="auto">
 
 - I am an aspiring web developer with a passion for creating dynamic / responsive websites
 - Currently enrolled in Georgia tech’s full-stack web development bootcamp
