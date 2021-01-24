@@ -1,7 +1,7 @@
 
 <img src="https://github.com/santu14/santu14/blob/master/images/SantiagoSolana.gif" alt="hello" width="100%" height="auto">
 
-- I am an aspiring web developer with a passion for creating dynamic / responsive websites
+- Web developer with a passion for creating dynamic / responsive websites
 - Georgia tech full-stack web development bootcamp graduate
 
 - Born in Atlanta raised in Argentina and brought back lol
