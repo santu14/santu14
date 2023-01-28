@@ -1,7 +1,6 @@
 
 <img src="https://github.com/santu14/santu14/blob/master/images/SantiagoSolana.gif" alt="hello" width="100%" height="auto">
 
-- Front end developer
 
 
 
